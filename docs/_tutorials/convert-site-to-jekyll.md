@@ -9,7 +9,7 @@ If you're looking for themes for your Jekyll site, you don't have to restrict yo
 In many ways, any site that is currently a static site is *already* a Jekyll website. Jekyll just allows you to automate parts of the site (like inserting pages into templates, rendering lists for navigation, generating feeds and sitemaps, and more) as it processes the files.
 
 Understanding how to convert any HTML site into Jekyll templates will open your world to many more options for Jekyll themes. Instead of [searching online for  *Jekyll themes*](https://duckduckgo.com/?q=Jekyll+themes), you can choose from the large variety of HTML templates for your site, quickly Jekyll-ize the HTML templates as you need to, and build the output with Jekyll.
-
+sdfsf
 Although websites can have sophisticated features and controls, we'll keep things simple in this tutorial.
 
 ## What is a Jekyll Website?
